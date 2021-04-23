@@ -1,7 +1,7 @@
 
 ## About ZURI TRAINNIG PHP BACKEND TASK 4
 
-###Instructions
+### Instructions
 
 From your knowledge of MySQL Database create a basic authentication page that does the following:
 
@@ -15,7 +15,7 @@ From your knowledge of MySQL Database create a basic authentication page that do
 
 - logout
 
-####2. Dashboard
+#### 2. Dashboard
 
 - Add a course.
 
