@@ -41,7 +41,7 @@ Please make sure to edit `my_setting.ini` file by including required settings to
 
 	- schema example (`zuri_task4_crud`)
 
-If mysql server is running on differrent port number please remove `;` in front of port and specify the correct port number
+If mysql server is running on port number different from `3306` please remove `;` in front of port and specify the correct port number
 - The script itself will populate required table definition if provided database is empty mean no table in the specified database
 
 ## Author
