@@ -1,11 +1,11 @@
 
-## About ZURI TRAINNIG PHP BACKEND TASK 3
+## About ZURI TRAINNIG PHP BACKEND TASK 4
 
-Instructions
+###Instructions
 
 From your knowledge of MySQL Database create a basic authentication page that does the following:
 
-1. Authentication
+#### 1. Authentication
 
 - register (a new user can register, their details stored in a MySQL database). 
 
@@ -15,7 +15,7 @@ From your knowledge of MySQL Database create a basic authentication page that do
 
 - logout
 
-2. Dashboard
+####2. Dashboard
 
 - Add a course.
 
@@ -34,11 +34,15 @@ NOTE: Make use of MySQL database. We're more concerned about functionalities and
 Please make sure the create a database name `zuri_task4_crud` in your mysql server.
 ### Database server information settings
 Please make sure to edit `my_setting.ini` file by including required settings to connect to mysql server like
+
 	- username example(`root`)
+
 	- password example(`most local cases is empty`)
-	- schema example (`zuri_task4_cruds`)
-If mysql server is running on differrent post number please remove `;` in front of port and specify the correct port number
-- The script them selves will populate required table definition if provided database is empty mean no table in the specified database
+
+	- schema example (`zuri_task4_crud`)
+
+If mysql server is running on differrent port number please remove `;` in front of port and specify the correct port number
+- The script itself will populate required table definition if provided database is empty mean no table in the specified database
 
 ## Author
-Ruberandinda Patience
+Ruberandinda Patience @ruberandindap 
